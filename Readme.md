@@ -3,7 +3,9 @@
 
 This project contains 3D printed parts for the ALFOAR robot. This robot is designed to learn SLAM and navigation.
 
-![Robot photo](./3d_model.png "ALFOAR ROBOT").
+![Robot 3d model](./3d_model.png "ALFOAR ROBOT").
+
+![Robot photo](./robot.jpg "ALFOAR ROBOT").
 
 ## Components used:
 - Jetson nano board
